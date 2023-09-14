@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "WPCADASTROPERSONALIZADO\\": ["src/"]
+    }
+  },
+  "require": {
+    "twig/twig": "^3.1"
+  }
+}
